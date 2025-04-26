@@ -10,7 +10,8 @@
 
 
 ## build
-/cmake-build-debug
+cmake-build-debug
+build
 
 ## ide
 .idea
